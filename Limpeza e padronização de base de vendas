@@ -1,0 +1,70 @@
+import pandas as pd
+import numpy as np
+from google.colab import files
+uploaded = files.upload()
+df = pd.read_excel("base_vendas_suja.xlsx")
+
+print(" Base carregada com sucesso!")
+print("Tamanho inicial:", df.shape)
+print("\nVisualização inicial:")
+display(df.head())
+
+print("\n Informações gerais:")
+df.info()
+print("\nValores ausentes por coluna:")
+print(df.isnull().sum())
+
+print("\n Corrigindo tipos de dados...")
+df["Data da Venda"] = pd.to_datetime(df["Data da Venda"], errors="coerce", dayfirst=True)
+df["Preço Unitário"] = pd.to_numeric(df["Preço Unitário"], errors="coerce")
+df["Valor Total"] = pd.to_numeric(df["Valor Total"], errors="coerce")
+df["Quantidade"] = pd.to_numeric(df["Quantidade"], errors="coerce")
+
+print("\n Tratando valores nulos...")
+df.dropna(subset=["Produto", "Preço Unitário"], inplace=True)
+df["Categoria"].fillna("Não Informada", inplace=True)
+df["Forma de Pagamento"].fillna("Indefinido", inplace=True)
+df["Status da Venda"].fillna("Desconhecido", inplace=True)
+
+print("\n Removendo duplicatas...")
+df.drop_duplicates(inplace=True)
+
+print("\n Padronizando textos...")
+df["Nome do Cliente"] = df["Nome do Cliente"].astype(str).str.title().str.strip()
+df["Produto"] = df["Produto"].astype(str).str.title().str.strip()
+
+df["Categoria"] = df["Categoria"].astype(str).str.lower().replace({
+    "informatica": "Informática",
+    "acessorios": "Acessórios",
+    "periferico": "Periféricos",
+    "": "Não Informada"
+})
+
+for col in ["Forma de Pagamento", "Status da Venda", "Região"]:
+    df[col] = df[col].astype(str).str.capitalize().str.strip()
+
+print("\n Recalculando valores totais e removendo outliers...")
+df["Valor Total Corrigido"] = df["Quantidade"] * df["Preço Unitário"]
+
+q1 = df["Valor Total Corrigido"].quantile(0.25)
+q3 = df["Valor Total Corrigido"].quantile(0.75)
+iqr = q3 - q1
+limite_superior = q3 + 1.5 * iqr
+
+df = df[df["Valor Total Corrigido"] <= limite_superior]
+
+df.sort_values(by="Data da Venda", inplace=True)
+df.reset_index(drop=True, inplace=True)
+
+print("\n Base final após limpeza:")
+print(df.info())
+print("\nLinhas e colunas finais:", df.shape)
+display(df.head(10))
+
+nome_arquivo_limpo = "base_vendas_limpa.xlsx"
+df.to_excel(nome_arquivo_limpo, index=False)
+
+print("\n Base limpa salva com sucesso como:", nome_arquivo_limpo)
+
+from google.colab import files
+files.download(nome_arquivo_limpo)
