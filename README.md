@@ -1,126 +1,93 @@
+# Projeto: Portfólio de Ciência de Dados
 
-# 🚀 Portfólio de Projetos – Ciência de Dados & Python
+**Resumo**
+Projeto pronto para subir no GitHub com datasets realistas, notebooks de exemplo e instruções para rodar localmente.
 
-Bem-vindo ao repositório dos **14 notebooks oficiais** do seu roteiro completo de estudos em Ciência de Dados, Machine Learning, Deep Learning, NLP, Big Data e Cloud!  
-Aqui você encontrará todos os módulos organizados de forma clara e profissional para apresentar no GitHub ou utilizar como base de estudos.
-
----
-
-## 📚 Estrutura do Repositório
-
+## Estrutura do repositório
 ```
-projetos-ciencia-dados/
-│
-├── 01_Fundamentos_Programacao.ipynb
-├── 02_Limpeza_Tratamento_Dados.ipynb
-├── 03_Visualizacao_Dashboards.ipynb
-├── 04_Estatistica_I.ipynb
-├── 05_Estatistica_II.ipynb
-├── 06_Regressao_Correlacao.ipynb
-├── 07_Series_Temporais.ipynb
-├── 08_Machine_Learning.ipynb
-├── 09_Deep_Learning.ipynb
-├── 10_NLP_LLMs.ipynb
-├── 11_Grafos_Redes.ipynb
-├── 12_SQL_NoSQL.ipynb
-├── 13_Spark_BigData.ipynb
-└── 14_Cloud_AWS.ipynb
+/data
+  /modulo2_vendas
+    - base_vendas_suja.csv
+    - base_vendas_suja.xlsx
+  /modulo5_estatistica
+    - notas_alunos.csv
+    - notas_alunos.xlsx
+  /modulo6_regressao
+    - casas.csv
+    - casas.xlsx
+  /modulo8_ml
+    - clientes.csv
+    - clientes.xlsx
+  /modulo10_nlp
+    - tweets.csv
+    - tweets.xlsx
+/notebooks
+  - modulo2_vendas.ipynb
+  - modulo5_estatistica.ipynb
+  - modulo6_regressao.ipynb
+  - modulo8_ml.ipynb
+  - modulo10_nlp.ipynb
+README.md
+.gitignore
 ```
 
----
+## Descrição dos módulos e datasets
 
-## 🔥 Descrição dos Módulos
+### Módulo 2 - Vendas
+Dataset `base_vendas_suja` com:
+- pedidos (order_id, order_date)
+- cliente, cidade (textos despadronizados)
+- produto com variações textuais
+- preço, quantidade (contém valores ausentes e outliers)
+- duplicatas e anotações inconsistentes
 
-### **01 – Fundamentos de Programação (Python)**
-- Variáveis, funções, condicionais, loops
-- Projeto: Calculadora de notas / Conversor de temperatura
+Útil para tarefas de limpeza, manipulação de datas, deduplicação e análise exploratória.
 
-### **02 – Limpeza e Tratamento de Dados**
-- Pandas, missing values, duplicados, outliers
-- Projeto: Base de vendas limpa e tratada
+### Módulo 5 - Estatística
+Dataset `notas_alunos` com:
+- identificador e nome do aluno (vários formatos)
+- notas de duas provas e nota final (contém valores ausentes, valores inválidos e duplicatas)
+- ideal para exercícios de estatística descritiva, tratamento de valores inválidos e imputação
 
-### **03 – Visualização e Dashboards**
-- Matplotlib, Seaborn, Plotly
-- Projeto: Dashboard de vendas no Colab / Streamlit
+### Módulo 6 - Regressão
+Dataset `casas` com características de imóveis:
+- área (m2), quartos, banheiros, ano de construção, endereço, preço
+- contém outliers, valores ausentes e duplicatas
+- ideal para modelos de regressão e engenharia de features
 
-### **04 – Estatística I**
-- Média, variância, probabilidade, simulações
-- Projeto: Simulação de dados e histogramas
+### Módulo 8 - Machine Learning
+Dataset `clientes` com informações:
+- client_id, nome, email (formatos inconsistentes), idade, assinatura, última atividade, churn
+- contém valores ausentes, duplicatas e categorias despadronizadas
+- ideal para classificação de churn, engenharia de features categóricas e validação
 
-### **05 – Estatística II**
-- Testes de hipótese, ANOVA, t-Student
-- Projeto: Comparação entre grupos
+### Módulo 10 - NLP
+Dataset `tweets` com:
+- tweet_id, usuário, texto bruto, timestamp
+- textos despadronizados, emojis, pontuação excessiva, duplicatas e valores nulos
+- ideal para pré-processamento de texto, análise de sentimento e tokenização
 
-### **06 – Regressão e Correlação**
-- Regressão linear simples e múltipla
-- Projeto: Previsão de preços de imóveis
+## Como rodar o projeto localmente
+1. Clone o repositório:
+```bash
+git clone <seu-repo>.git
+cd <seu-repo>
+```
 
-### **07 – Séries Temporais**
-- ARIMA, decomposição, tendência
-- Projeto: Previsão de temperatura
+2. Recomenda-se criar um ambiente virtual:
+```bash
+python -m venv .venv
+source .venv/bin/activate   # macOS / Linux
+.\.venv\Scripts\activate  # Windows
+pip install -r requirements.txt
+```
 
-### **08 – Machine Learning**
-- Classificação, regressão, clustering
-- Projeto: Classificação Iris
+3. Abra os notebooks em Jupyter Lab / Notebook:
+```bash
+jupyter lab
+```
+Os notebooks usam caminhos relativos (`data/...`) e conseguem abrir automaticamente CSV ou XLSX.
 
-### **09 – Deep Learning**
-- Redes neurais densas e convolucionais
-- Projeto: MNIST
-
-### **10 – NLP e LLMs**
-- Análise de sentimentos, tokenização
-- Projeto: Sentiment Analysis
-
-### **11 – Grafos e Redes**
-- NetworkX, centralidade, visualização
-- Projeto: Rede de amizades
-
-### **12 – SQL e NoSQL**
-- SQLite, queries, integração Python
-- Projeto: CRUD de funcionários
-
-### **13 – Big Data com PySpark**
-- RDD, DataFrames, WordCount
-- Projeto: Processamento distribuído
-
-### **14 – Cloud (AWS / Simulado)**
-- S3, Lambda, arquitetura
-- Projeto: Pipeline simples em nuvem (simulado no Colab)
-
----
-
-## 🧰 Como Utilizar Cada Notebook
-
-1. Faça download dos arquivos `.ipynb`
-2. Abra no **Google Colab**
-3. Execute célula por célula
-4. Faça seus experimentos, análises e anotações
-5. Suba no seu GitHub com commits organizados
-6. Atualize esse README conforme evoluir nos projetos
-
----
-
-## 🌟 Objetivo do Repositório
-
-Criar um **portfólio profissional** que demonstre domínio em:
-
-- Python
-- Data Cleaning
-- Data Visualization
-- Estatística aplicada
-- Machine Learning
-- Deep Learning
-- NLP
-- Big Data com PySpark
-- SQL e NoSQL
-- Arquitetura Cloud
-
----
-
-## 📬 Contato
-
-Caso você queira expandir este portfólio com projetos mais avançados, automações completas ou dashboards profissionais, estou aqui pra te ajudar!
-
----
-
-Feito por **Guilherme** 👨‍💻🔥  
+## Notas
+- Os datasets aqui são fictícios, mas realistas — adequados para portfólio.
+- Modifique e complemente os notebooks com suas análises, gráficos e modelos antes de subir no GitHub.

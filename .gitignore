@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
+.DS_Store
+*.log
+# data is included in this repo for the portfolio; remove the next line if you prefer to keep data tracked
+# /data/
