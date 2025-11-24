@@ -1,12 +1,3 @@
-Claro! Aqui está o **README.md profissional**, já personalizado com seu nome e suas redes.
-
-Se quiser, posso também gerar esse arquivo **pronto em .md** para download — é só pedir!
-
----
-
-# 📌 **README.md — versão final**
-
-```markdown
 # 📊 Portfólio de Ciência de Dados — Guilherme Belote
 
 Bem-vindo(a) ao meu portfólio de Ciência de Dados!  
@@ -37,15 +28,13 @@ Este repositório foi criado para demonstrar minhas habilidades técnicas e minh
 ## 📁 Estrutura do Repositório
 
 ```
-
 ciencia_dados_portfolio/
 │
 ├── data/                → Bases utilizadas nos projetos
 ├── notebooks/           → Notebooks organizados por tema
 ├── requirements.txt     → Dependências do ambiente
 └── README.md            → Este arquivo
-
-````
+```
 
 ---
 
@@ -91,7 +80,7 @@ Instale as dependências:
 
 ```bash
 pip install -r requirements.txt
-````
+```
 
 Abra os notebooks com:
 
@@ -105,22 +94,24 @@ jupyter notebook
 
 Este portfólio reúne conhecimentos essenciais para atuar como:
 
-* Cientista de Dados
-* Analista de Dados
-* Engenheiro de Machine Learning (nível inicial)
-* Profissional de Big Data
-* Analista de Business Intelligence
+- Cientista de Dados  
+- Analista de Dados  
+- Engenheiro de Machine Learning (nível inicial)  
+- Profissional de Big Data  
+- Analista de Business Intelligence  
 
 Cada módulo reflete minha evolução prática e teórica em Ciência de Dados.
+
+---
 
 ## 📬 Contato
 
 Se quiser conversar sobre projetos, oportunidades, networking ou colaboração, você me encontra em:
 
-* **LinkedIn:** [https://www.linkedin.com/in/guilherme-belote/](https://www.linkedin.com/in/guilherme-belote/)
-* **E-mail:** [guilhermebelote5@gmail.com](mailto:guilhermebelote5@gmail.com)
-* **GitHub:** [https://github.com/guibelote](https://github.com/guibelote)
+- **LinkedIn:** https://www.linkedin.com/in/guilherme-belote/  
+- **E-mail:** guilhermebelote5@gmail.com  
+- **GitHub:** https://github.com/guibelote  
+
+---
 
 ✨ *Obrigado por visitar meu portfólio! Sinta-se à vontade para explorar e deixar sugestões.*
-O que você prefere?
-```
