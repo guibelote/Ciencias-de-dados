@@ -1,93 +1,126 @@
-# Projeto: Portfólio de Ciência de Dados
+Claro! Aqui está o **README.md profissional**, já personalizado com seu nome e suas redes.
 
-**Resumo**
-Projeto pronto para subir no GitHub com datasets realistas, notebooks de exemplo e instruções para rodar localmente.
+Se quiser, posso também gerar esse arquivo **pronto em .md** para download — é só pedir!
 
-## Estrutura do repositório
+---
+
+# 📌 **README.md — versão final**
+
+```markdown
+# 📊 Portfólio de Ciência de Dados — Guilherme Belote
+
+Bem-vindo(a) ao meu portfólio de Ciência de Dados!  
+Aqui apresento uma coleção organizada dos meus estudos, projetos e experimentos práticos envolvendo Python, Machine Learning, Estatística, NLP, Deep Learning, SQL, Big Data, Cloud, Dashboards e muito mais.
+
+Este repositório foi criado para demonstrar minhas habilidades técnicas e minha evolução como profissional de dados.
+
+---
+
+## 🚀 Principais Competências
+
+- **Python** para análise, modelagem e automação  
+- **Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch**  
+- **Estatística e Probabilidade**  
+- **Machine Learning tradicional**  
+- **Deep Learning e Redes Neurais**  
+- **NLP (Processamento de Linguagem Natural)**  
+- **Séries Temporais**  
+- **SQL e NoSQL**  
+- **Big Data com Apache Spark**  
+- **Cloud AWS**  
+- **Visualização de Dados** (Matplotlib, Seaborn, Plotly)  
+- **Dashboards e Storytelling com Dados**  
+- **Versionamento com Git e GitHub**
+
+---
+
+## 📁 Estrutura do Repositório
+
 ```
-/data
-  /modulo2_vendas
-    - base_vendas_suja.csv
-    - base_vendas_suja.xlsx
-  /modulo5_estatistica
-    - notas_alunos.csv
-    - notas_alunos.xlsx
-  /modulo6_regressao
-    - casas.csv
-    - casas.xlsx
-  /modulo8_ml
-    - clientes.csv
-    - clientes.xlsx
-  /modulo10_nlp
-    - tweets.csv
-    - tweets.xlsx
-/notebooks
-  - modulo2_vendas.ipynb
-  - modulo5_estatistica.ipynb
-  - modulo6_regressao.ipynb
-  - modulo8_ml.ipynb
-  - modulo10_nlp.ipynb
-README.md
-.gitignore
-```
 
-## Descrição dos módulos e datasets
+ciencia_dados_portfolio/
+│
+├── data/                → Bases utilizadas nos projetos
+├── notebooks/           → Notebooks organizados por tema
+├── requirements.txt     → Dependências do ambiente
+└── README.md            → Este arquivo
 
-### Módulo 2 - Vendas
-Dataset `base_vendas_suja` com:
-- pedidos (order_id, order_date)
-- cliente, cidade (textos despadronizados)
-- produto com variações textuais
-- preço, quantidade (contém valores ausentes e outliers)
-- duplicatas e anotações inconsistentes
+````
 
-Útil para tarefas de limpeza, manipulação de datas, deduplicação e análise exploratória.
+---
 
-### Módulo 5 - Estatística
-Dataset `notas_alunos` com:
-- identificador e nome do aluno (vários formatos)
-- notas de duas provas e nota final (contém valores ausentes, valores inválidos e duplicatas)
-- ideal para exercícios de estatística descritiva, tratamento de valores inválidos e imputação
+## 📘 Notebooks e Projetos
 
-### Módulo 6 - Regressão
-Dataset `casas` com características de imóveis:
-- área (m2), quartos, banheiros, ano de construção, endereço, preço
-- contém outliers, valores ausentes e duplicatas
-- ideal para modelos de regressão e engenharia de features
+A seguir estão os principais notebooks e o que cada um aborda:
 
-### Módulo 8 - Machine Learning
-Dataset `clientes` com informações:
-- client_id, nome, email (formatos inconsistentes), idade, assinatura, última atividade, churn
-- contém valores ausentes, duplicatas e categorias despadronizadas
-- ideal para classificação de churn, engenharia de features categóricas e validação
+### 🔹 **Fundamentos de Programação**
+Introdução ao Python aplicado à Ciência de Dados: lógica, estruturas, funções, laços e boas práticas.
 
-### Módulo 10 - NLP
-Dataset `tweets` com:
-- tweet_id, usuário, texto bruto, timestamp
-- textos despadronizados, emojis, pontuação excessiva, duplicatas e valores nulos
-- ideal para pré-processamento de texto, análise de sentimento e tokenização
+### 🔹 **Visualização & Dashboards**
+Criação de gráficos exploratórios e dashboards interativos.
 
-## Como rodar o projeto localmente
-1. Clone o repositório:
+### 🔹 **Estatística Aplicada**
+Distribuições, testes de hipóteses, medidas descritivas e análise estatística.
+
+### 🔹 **Séries Temporais**
+Modelagem, análise e previsão com métodos clássicos.
+
+### 🔹 **Machine Learning**
+Classificação, regressão, validação, métricas e pipelines.
+
+### 🔹 **Deep Learning**
+Conceitos fundamentais, arquiteturas de redes neurais e experimentos práticos.
+
+### 🔹 **NLP — Processamento de Linguagem Natural**
+Limpeza de textos, vetorização, análise de sentimento e modelos de linguagem.
+
+### 🔹 **Big Data com Spark**
+Processamento distribuído e manipulação de grandes bases.
+
+### 🔹 **SQL & NoSQL**
+Consultas, modelagem e operações com dados estruturados e semiestruturados.
+
+### 🔹 **AWS — Nuvem**
+Fundamentos de Cloud e serviços essenciais na AWS.
+
+---
+
+## 📦 Como Rodar o Projeto
+
+Instale as dependências:
+
 ```bash
-git clone <seu-repo>.git
-cd <seu-repo>
-```
-
-2. Recomenda-se criar um ambiente virtual:
-```bash
-python -m venv .venv
-source .venv/bin/activate   # macOS / Linux
-.\.venv\Scripts\activate  # Windows
 pip install -r requirements.txt
-```
+````
 
-3. Abra os notebooks em Jupyter Lab / Notebook:
+Abra os notebooks com:
+
 ```bash
-jupyter lab
+jupyter notebook
 ```
-Os notebooks usam caminhos relativos (`data/...`) e conseguem abrir automaticamente CSV ou XLSX.
 
-## Notas
-- Os datasets aqui são fictícios, mas realistas — adequados para portfólio.
-- Modifique e complemente os notebooks com suas análises, gráficos e modelos antes de subir no GitHub.
+---
+
+## 🧠 Sobre este Portfólio
+
+Este portfólio reúne conhecimentos essenciais para atuar como:
+
+* Cientista de Dados
+* Analista de Dados
+* Engenheiro de Machine Learning (nível inicial)
+* Profissional de Big Data
+* Analista de Business Intelligence
+
+Cada módulo reflete minha evolução prática e teórica em Ciência de Dados.
+
+## 📬 Contato
+
+Se quiser conversar sobre projetos, oportunidades, networking ou colaboração, você me encontra em:
+
+* **LinkedIn:** [https://www.linkedin.com/in/guilherme-belote/](https://www.linkedin.com/in/guilherme-belote/)
+* **E-mail:** [guilhermebelote5@gmail.com](mailto:guilhermebelote5@gmail.com)
+* **GitHub:** [https://github.com/guibelote](https://github.com/guibelote)
+
+✨ *Obrigado por visitar meu portfólio! Sinta-se à vontade para explorar e deixar sugestões.*
+O que você prefere?
+```
