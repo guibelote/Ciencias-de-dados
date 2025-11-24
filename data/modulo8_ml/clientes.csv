@@ -1,0 +1,511 @@
+client_id,name,email,age,subscription,last_active,churn
+C5000,Ana Silva,ana23@gmail.com,52,premium,2025-11-19,0
+C5001,Daniela Silva,daniela83@gmail.com,43,basic,2025-11-14,0
+C5002,Bruno,bruno65@gmail.com,35,basic,2025-11-02,1
+C5003,Eduardo,eduardo44@gmail.com,46,premium,2025-09-29,1
+C5004,Eduardo Souza,eduardo42@gmail.com,40,free,2025-10-04,0
+C5005,Bruno da Silva,bruno69@gmail.com,70,basic,2025-07-03,1
+C5006,Daniela,daniela@example,31,free,2025-07-26,0
+C5007,Guilherme,guilherme98@gmail.com,32,free,2025-10-05,0
+C5008,Guilherme Souza,guilherme46@gmail.com,66,basic,2025-10-19,1
+C5009,Fernanda,fernanda56@gmail.com,50,premium,2025-10-21,1
+C5010,Eduardo,eduardo60@gmail.com,42,free,2025-07-14,1
+C5011,Márcio,marcio@example,38,basic,2025-11-20,0
+C5012,Márcio Neto,marcio29@gmail.com,34,premium,2025-11-23,0
+C5013,Márcio Silva,marcio39@gmail.com,40,free,2025-07-05,0
+C5014,Marina,marina50@gmail.com,74,free,2025-09-27,0
+C5015,Daniela da Silva,daniela39@gmail.com,60,,2025-11-12,1
+C5016,Lúcia Souza,,34,premium,2025-10-31,0
+C5017,Bruno,bruno73@gmail.com,75,basic,2025-03-27,0
+C5018,Bruno,bruno22@gmail.com,31,basic,2025-06-01,0
+C5019,Márcio,marcio87@gmail.com,46,free,2025-08-05,0
+C5020,Fernanda Souza,fernanda89@gmail.com,37,basic,2025-09-26,0
+C5021,Ana Silva,ana98@gmail.com,47,basic,2025-09-19,0
+C5022,Márcio da Silva,marcio39@gmail.com,36,basic,2024-12-27,0
+C5023,Eduardo,eduardo60@gmail.com,70,free,2025-01-25,1
+C5024,Márcio Neto,marcio22@gmail.com,56,free,2025-11-03,0
+C5025,Ana,ana89@gmail.com,73,free,2025-06-28,0
+C5026,Márcio Souza,marcio3@gmail.com,30,Basic,2025-11-05,0
+C5027,Daniela da Silva,daniela36@gmail.com,35,basic,2025-11-03,1
+C5028,Daniela Souza,daniela9@gmail.com,40,basic,2025-08-15,1
+C5029,Marina Souza,marina12@gmail.com,79,free,2025-10-09,0
+C5030,Guilherme da Silva,guilherme33@gmail.com,63,free,2025-03-28,0
+C5031,Lúcia Silva,lucia45@gmail.com,50,premium,2025-11-16,1
+C5032,Marina da Silva,marina@example,56,basic,2025-09-21,1
+C5033,Daniela Souza,daniela23@gmail.com,57,basic,2025-04-13,1
+C5034,Ana Neto,ana21@gmail.com,35,free,2025-04-27,0
+C5035,Fernanda,fernanda36@gmail.com,26,premium,2025-11-09,0
+C5036,Lúcia da Silva,lucia91@gmail.com,50,free,2025-10-14,1
+C5037,Daniela,daniela74@gmail.com,49,free,2025-08-30,0
+C5038,Daniela da Silva,daniela70@gmail.com,78,basic,2025-11-09,1
+C5039,Bruno,bruno@example,71,FREE,2025-01-19,0
+C5040,Fernanda Silva,fernanda2@gmail.com,34,free,2025-04-17,1
+C5041,Márcio Silva,marcio9@gmail.com,36,basic,,0
+C5042,Eduardo,eduardo57@gmail.com,44,premium,2025-11-13,0
+C5043,Lúcia Souza,lucia91@gmail.com,23,premium,,1
+C5044,Daniela,daniela97@gmail.com,52,BASIC,2025-04-22,1
+C5045,Márcio,marcio8@gmail.com,73,free,2025-11-05,0
+C5046,Ana da Silva,ana40@gmail.com,54,free,2025-10-07,1
+C5047,Lúcia Silva,lucia61@gmail.com,51,FREE,2025-10-02,1
+C5048,Bruno,bruno78@gmail.com,37,basic,2025-09-03,0
+C5049,Marina,marina21@gmail.com,42,premium,,0
+C5050,Bruno Souza,bruno@example,21,free,2025-11-01,0
+C5051,Ana Silva,ana50@gmail.com,27,basic,2025-03-28,0
+C5052,Ana Souza,,27,free,2025-04-23,0
+C5053,Guilherme Silva,guilherme@example,41,basic,2025-07-11,1
+C5054,Ana Neto,ana99@gmail.com,38,,2025-11-23,0
+C5055,Fernanda da Silva,fernanda46@gmail.com,28,Basic,2025-10-20,1
+C5056,Marina Neto,marina@example,44,basic,2025-08-28,0
+C5057,Eduardo,eduardo25@gmail.com,33,basic,2025-10-27,1
+C5058,Marina da Silva,marina33@gmail.com,43,,2025-04-22,1
+C5059,Lúcia da Silva,lucia21@gmail.com,78,premium,2025-08-26,1
+C5060,Fernanda,fernanda@example,78,free,2025-11-18,1
+C5061,Lúcia da Silva,lucia56@gmail.com,47,basic,2025-04-23,0
+C5062,Bruno da Silva,bruno21@gmail.com,66,free,2025-02-13,1
+C5063,Lúcia Neto,lucia68@gmail.com,33,basic,2025-11-17,0
+C5064,Fernanda Souza,fernanda34@gmail.com,24,basic,2025-09-17,0
+C5065,Eduardo,eduardo53@gmail.com,33,basic,2025-10-23,0
+C5066,Lúcia da Silva,lucia3@gmail.com,52,free,2025-10-11,0
+C5067,Márcio,,75,free,2025-11-07,1
+C5068,Fernanda Silva,,33,basic,2025-09-08,0
+C5069,Bruno,bruno@example,57,premium,2025-02-12,1
+C5070,Carlos da Silva,carlos98@gmail.com,79,premium,2025-09-23,1
+C5071,Eduardo,eduardo88@gmail.com,29,free,2025-11-17,0
+C5072,Carlos,carlos27@gmail.com,52,,2025-08-29,0
+C5073,Ana,ana3@gmail.com,66,,2025-10-18,0
+C5074,Eduardo Neto,eduardo50@gmail.com,38,free,2025-06-03,0
+C5075,Daniela,daniela17@gmail.com,67,free,2025-10-04,1
+C5076,Bruno da Silva,bruno43@gmail.com,60,premium,2025-11-05,0
+C5077,Bruno Neto,bruno90@gmail.com,53,premium,2025-11-05,0
+C5078,Eduardo Souza,eduardo76@gmail.com,65,Basic,2025-07-16,1
+C5079,Marina Neto,marina83@gmail.com,34,,2025-10-28,0
+C5080,Guilherme Neto,guilherme26@gmail.com,49,basic,2025-07-16,1
+C5081,Fernanda da Silva,fernanda87@gmail.com,58,basic,2025-11-04,1
+C5082,Márcio Neto,marcio30@gmail.com,23,free,2025-10-21,1
+C5083,Ana Silva,ana23@gmail.com,41,free,2025-09-29,1
+C5084,Guilherme Neto,guilherme57@gmail.com,44,basic,2025-03-11,0
+C5085,Bruno da Silva,bruno43@gmail.com,37,basic,2025-03-28,0
+C5086,Fernanda Souza,fernanda16@gmail.com,42,basic,2025-11-04,0
+C5087,Daniela Souza,daniela20@gmail.com,19,premium,2025-10-16,0
+C5088,Eduardo,eduardo75@gmail.com,26,FREE,2025-11-10,0
+C5089,Márcio da Silva,marcio50@gmail.com,45,basic,2025-09-21,0
+C5090,Lúcia,lucia92@gmail.com,70,free,2025-09-30,0
+C5091,Daniela Silva,daniela68@gmail.com,78,basic,2025-05-01,0
+C5092,Daniela,daniela83@gmail.com,55,premium,2025-03-30,0
+C5093,Ana da Silva,ana92@gmail.com,20,premium,2025-10-12,0
+C5094,Carlos Silva,carlos54@gmail.com,37,FREE,2025-09-25,0
+C5095,Ana,ana34@gmail.com,23,free,2025-05-05,0
+C5096,Márcio Souza,marcio66@gmail.com,56,basic,2025-06-30,1
+C5097,Eduardo,eduardo97@gmail.com,50,free,2025-11-24,1
+C5098,Bruno Souza,bruno23@gmail.com,72,basic,2025-10-21,0
+C5099,Fernanda,fernanda37@gmail.com,18,,2025-10-06,0
+C5100,Márcio Neto,marcio77@gmail.com,54,premium,2025-11-01,0
+C5101,Carlos Silva,carlos53@gmail.com,23,,2025-11-04,0
+C5102,Ana Silva,ana50@gmail.com,62,FREE,2025-11-21,0
+C5103,Carlos,carlos45@gmail.com,51,,2025-08-24,0
+C5104,Ana Silva,ana91@gmail.com,64,free,2025-10-28,0
+C5105,Eduardo Neto,eduardo54@gmail.com,32,,2025-11-20,0
+C5106,Ana da Silva,ana50@gmail.com,62,free,2025-11-01,1
+C5107,Eduardo,eduardo68@gmail.com,43,free,2025-07-02,0
+C5108,Daniela da Silva,,74,basic,2025-06-06,0
+C5109,Ana da Silva,ana93@gmail.com,31,,2025-09-26,1
+C5110,Lúcia,lucia91@gmail.com,75,free,2025-10-07,0
+C5111,Marina da Silva,marina23@gmail.com,71,free,2024-12-17,1
+C5112,Lúcia Silva,lucia78@gmail.com,24,,2025-11-04,0
+C5113,Bruno Souza,,63,free,2025-11-03,0
+C5114,Eduardo da Silva,eduardo49@gmail.com,75,free,2025-10-24,1
+C5115,Lúcia,lucia@example,48,basic,2025-11-07,0
+C5116,Carlos,,41,free,2025-10-13,0
+C5117,Ana Souza,ana38@gmail.com,76,,2025-04-21,0
+C5118,Lúcia Souza,,48,premium,2025-08-31,0
+C5119,Fernanda Silva,fernanda38@gmail.com,46,BASIC,2025-10-08,0
+C5120,Bruno Souza,bruno@example,59,FREE,2025-03-24,0
+C5121,Marina,marina71@gmail.com,49,basic,2025-11-20,1
+C5122,Ana,ana61@gmail.com,34,free,2025-11-03,1
+C5123,Márcio Neto,marcio50@gmail.com,31,free,2025-09-10,0
+C5124,Fernanda Neto,fernanda56@gmail.com,57,basic,2025-08-30,0
+C5125,Márcio Silva,marcio20@gmail.com,53,free,2025-11-21,0
+C5126,Márcio Neto,marcio21@gmail.com,75,,2025-10-09,0
+C5127,Ana Souza,ana50@gmail.com,65,premium,2025-08-22,0
+C5128,Eduardo,eduardo@example,41,free,2025-08-09,0
+C5129,Lúcia,lucia15@gmail.com,62,basic,2025-08-25,0
+C5130,Marina Silva,marina29@gmail.com,71,premium,2025-10-21,1
+C5131,Eduardo Souza,eduardo68@gmail.com,44,,2025-11-16,0
+C5132,Márcio,marcio9@gmail.com,42,,2025-10-05,0
+C5133,Márcio Souza,marcio48@gmail.com,76,basic,2025-11-12,0
+C5134,Marina Souza,marina57@gmail.com,49,premium,2025-03-04,0
+C5135,Bruno Silva,bruno93@gmail.com,69,basic,2025-09-27,1
+C5136,Bruno,bruno79@gmail.com,35,basic,2025-10-21,0
+C5137,Carlos da Silva,carlos46@gmail.com,63,free,,0
+C5138,Guilherme,guilherme30@gmail.com,35,free,2025-09-23,0
+C5139,Carlos Silva,carlos74@gmail.com,54,basic,2025-10-22,0
+C5140,Marina,marina99@gmail.com,43,free,2025-06-27,0
+C5141,Marina,marina@example,26,free,2025-05-27,0
+C5142,Márcio Neto,marcio77@gmail.com,77,premium,2025-08-16,0
+C5143,Eduardo,eduardo95@gmail.com,52,free,2025-11-20,0
+C5144,Márcio da Silva,marcio62@gmail.com,25,basic,2025-09-10,0
+C5145,Fernanda,fernanda23@gmail.com,37,basic,2025-07-18,0
+C5146,Ana,ana@example,71,Basic,2025-11-11,0
+C5147,Daniela Souza,daniela4@gmail.com,59,basic,2025-11-01,1
+C5148,Lúcia Silva,lucia47@gmail.com,39,free,2025-05-16,1
+C5149,Daniela Neto,,36,basic,2025-11-23,0
+C5150,Márcio Silva,marcio63@gmail.com,47,premium,2025-07-22,0
+C5151,Bruno Silva,bruno38@gmail.com,70,FREE,2025-09-28,0
+C5152,Lúcia Neto,lucia35@gmail.com,45,basic,2025-10-02,1
+C5153,Eduardo Neto,eduardo88@gmail.com,52,free,2025-11-24,0
+C5154,Guilherme Silva,guilherme64@gmail.com,60,,2025-06-23,0
+C5155,Márcio Neto,marcio17@gmail.com,28,free,2025-10-15,1
+C5156,Carlos Souza,carlos74@gmail.com,48,basic,2025-09-15,1
+C5157,Marina da Silva,marina48@gmail.com,66,basic,2025-08-15,1
+C5158,Bruno Silva,bruno56@gmail.com,65,free,2025-08-07,1
+C5159,Ana,ana52@gmail.com,56,free,2025-02-16,0
+C5160,Ana da Silva,ana26@gmail.com,53,free,,0
+C5161,Guilherme,guilherme18@gmail.com,47,premium,2025-10-10,0
+C5162,Bruno,bruno19@gmail.com,40,,2025-02-21,0
+C5163,Eduardo Souza,eduardo53@gmail.com,36,free,2025-08-24,1
+C5164,Daniela da Silva,daniela43@gmail.com,29,premium,2025-10-24,0
+C5165,Bruno Neto,,32,free,2025-11-12,0
+C5166,Daniela Souza,daniela30@gmail.com,48,basic,2025-06-11,0
+C5167,Bruno Souza,bruno68@gmail.com,60,free,2025-10-15,0
+C5168,Bruno,bruno66@gmail.com,54,,2025-08-19,0
+C5169,Carlos da Silva,carlos88@gmail.com,54,premium,2025-09-28,0
+C5170,Márcio,marcio63@gmail.com,32,premium,,1
+C5171,Marina Souza,marina29@gmail.com,46,premium,2025-09-03,0
+C5172,Marina Silva,marina9@gmail.com,67,basic,2025-11-19,0
+C5173,Daniela Silva,daniela68@gmail.com,60,Basic,2025-10-08,0
+C5174,Eduardo Neto,eduardo90@gmail.com,43,premium,2025-09-14,0
+C5175,Daniela Souza,daniela13@gmail.com,61,,2025-10-04,1
+C5176,Fernanda da Silva,fernanda67@gmail.com,19,basic,2025-07-23,0
+C5177,Eduardo Neto,eduardo41@gmail.com,37,free,2025-06-19,0
+C5178,Daniela,daniela11@gmail.com,32,basic,2025-07-15,1
+C5179,Guilherme Souza,guilherme29@gmail.com,69,free,2025-11-21,1
+C5180,Eduardo Neto,eduardo31@gmail.com,21,basic,2025-11-05,0
+C5181,Márcio da Silva,marcio41@gmail.com,39,basic,2025-09-16,0
+C5182,Lúcia Silva,,67,basic,2025-03-24,1
+C5183,Carlos Silva,carlos@example,55,free,2025-06-15,0
+C5184,Márcio,marcio93@gmail.com,40,free,2025-06-11,0
+C5185,Guilherme Neto,guilherme98@gmail.com,76,basic,2025-10-23,0
+C5186,Ana da Silva,ana46@gmail.com,43,Basic,2025-10-05,0
+C5187,Bruno Souza,bruno68@gmail.com,68,free,2025-09-28,1
+C5188,Lúcia,lucia17@gmail.com,28,basic,2025-11-09,0
+C5189,Bruno da Silva,bruno82@gmail.com,45,premium,2025-11-22,0
+C5190,Marina Souza,marina5@gmail.com,73,basic,2025-03-05,1
+C5191,Ana,ana67@gmail.com,19,free,2025-10-31,0
+C5192,Fernanda,fernanda@example,76,basic,2025-10-31,1
+C5193,Daniela da Silva,daniela1@gmail.com,25,free,2025-11-17,0
+C5194,Carlos da Silva,carlos64@gmail.com,46,Basic,2025-04-01,1
+C5195,Ana Neto,ana9@gmail.com,28,free,2025-09-07,0
+C5196,Fernanda Silva,fernanda35@gmail.com,54,free,2025-08-18,0
+C5197,Bruno Silva,bruno2@gmail.com,35,free,2025-04-20,1
+C5198,Ana da Silva,ana43@gmail.com,72,free,2025-10-17,1
+C5199,Márcio da Silva,marcio94@gmail.com,79,premium,2025-08-29,1
+C5200,Guilherme,guilherme@example,67,free,2025-11-21,1
+C5201,Daniela da Silva,daniela54@gmail.com,31,free,2025-11-06,1
+C5202,Guilherme Silva,guilherme74@gmail.com,71,BASIC,2025-06-17,0
+C5203,Guilherme Silva,guilherme@example,27,free,2025-07-16,0
+C5204,Ana Silva,ana35@gmail.com,52,free,2025-10-17,1
+C5205,Daniela,,26,premium,2025-10-13,0
+C5206,Márcio,marcio44@gmail.com,52,premium,,1
+C5207,Bruno Neto,bruno46@gmail.com,28,,2025-11-24,0
+C5208,Bruno,bruno12@gmail.com,61,,2025-10-31,1
+C5209,Fernanda Silva,fernanda29@gmail.com,29,premium,2025-11-03,0
+C5210,Bruno da Silva,,20,free,2025-10-30,0
+C5211,Lúcia Neto,lucia24@gmail.com,70,premium,2025-06-30,0
+C5212,Carlos Silva,carlos@example,56,PREMIUM,2025-10-26,0
+C5213,Eduardo Souza,eduardo38@gmail.com,31,premium,2025-11-05,0
+C5214,Eduardo,eduardo44@gmail.com,73,basic,2025-09-22,0
+C5215,Ana da Silva,ana37@gmail.com,45,free,2025-05-28,0
+C5216,Ana Silva,ana5@gmail.com,28,premium,2025-10-31,0
+C5217,Eduardo Silva,eduardo53@gmail.com,56,premium,2025-11-17,0
+C5218,Lúcia,lucia68@gmail.com,42,FREE,2025-10-16,1
+C5219,Marina Souza,marina67@gmail.com,38,free,2025-07-24,1
+C5220,Márcio,marcio55@gmail.com,27,free,2025-09-13,0
+C5221,Carlos,carlos@example,60,free,2025-06-25,0
+C5222,Daniela Neto,daniela80@gmail.com,32,premium,2025-02-09,0
+C5223,Daniela Silva,daniela59@gmail.com,36,free,2025-07-06,1
+C5224,Marina Souza,marina60@gmail.com,65,free,2025-09-02,1
+C5225,Márcio Neto,marcio60@gmail.com,39,FREE,2025-09-24,0
+C5226,Lúcia,lucia23@gmail.com,38,free,2025-11-21,1
+C5227,Lúcia,lucia29@gmail.com,77,premium,2024-11-16,0
+C5228,Guilherme da Silva,guilherme83@gmail.com,69,free,2025-10-12,1
+C5229,Eduardo Souza,,61,premium,2025-11-10,0
+C5230,Daniela,daniela71@gmail.com,49,basic,2025-08-18,0
+C5231,Daniela Silva,daniela36@gmail.com,67,,2025-10-25,1
+C5232,Marina Silva,marina94@gmail.com,40,,2025-09-06,0
+C5233,Guilherme,guilherme71@gmail.com,30,free,2025-09-06,1
+C5234,Bruno Silva,bruno8@gmail.com,22,free,2025-10-02,0
+C5235,Daniela Silva,daniela1@gmail.com,21,free,2025-06-15,0
+C5236,Daniela Souza,daniela95@gmail.com,45,premium,2025-10-28,1
+C5237,Marina Souza,marina68@gmail.com,31,,2025-10-02,0
+C5238,Lúcia Neto,,25,basic,2025-09-16,0
+C5239,Marina,marina62@gmail.com,26,basic,2025-08-18,0
+C5240,Márcio Souza,marcio4@gmail.com,74,free,2025-07-10,1
+C5241,Guilherme Silva,guilherme62@gmail.com,68,premium,2025-10-10,0
+C5242,Carlos Silva,carlos@example,52,Basic,2025-08-23,0
+C5243,Guilherme Neto,,54,free,2025-11-10,1
+C5244,Carlos Souza,,38,basic,2025-03-27,0
+C5245,Ana,ana@example,75,free,2025-10-12,1
+C5246,Eduardo Souza,eduardo83@gmail.com,35,basic,2025-07-30,0
+C5247,Carlos da Silva,carlos@example,50,basic,2025-11-23,0
+C5248,Lúcia Neto,lucia69@gmail.com,25,free,2025-11-04,1
+C5249,Lúcia da Silva,,68,basic,2025-09-25,0
+C5250,Bruno Souza,bruno75@gmail.com,66,free,2025-05-19,0
+C5251,Carlos,carlos8@gmail.com,34,basic,2025-09-18,0
+C5252,Carlos Souza,carlos81@gmail.com,60,basic,2025-03-30,1
+C5253,Guilherme,guilherme46@gmail.com,48,free,2025-09-26,0
+C5254,Márcio Souza,marcio7@gmail.com,51,premium,2025-09-25,0
+C5255,Fernanda Silva,fernanda59@gmail.com,23,premium,2025-11-13,0
+C5256,Lúcia da Silva,lucia36@gmail.com,39,free,2025-07-01,0
+C5257,Guilherme da Silva,guilherme71@gmail.com,31,free,2025-10-30,0
+C5258,Marina Neto,marina30@gmail.com,20,premium,2025-05-02,0
+C5259,Ana,ana53@gmail.com,29,Basic,2025-04-21,1
+C5260,Guilherme Souza,guilherme67@gmail.com,53,free,2025-03-11,1
+C5261,Lúcia Souza,lucia95@gmail.com,29,free,2025-09-19,0
+C5262,Daniela da Silva,daniela18@gmail.com,62,free,2025-08-15,0
+C5263,Bruno Silva,bruno@example,19,basic,2025-07-12,0
+C5264,Márcio,marcio37@gmail.com,19,free,2025-11-12,1
+C5265,Daniela Silva,daniela21@gmail.com,32,free,2025-09-03,1
+C5266,Fernanda,,40,premium,2025-11-21,0
+C5267,Fernanda,fernanda@example,46,basic,2025-09-24,0
+C5268,Marina Souza,marina27@gmail.com,34,free,2025-11-09,0
+C5269,Eduardo,eduardo20@gmail.com,49,basic,2025-11-06,0
+C5270,Carlos Silva,,24,basic,2025-10-15,0
+C5271,Márcio da Silva,marcio14@gmail.com,47,free,2025-10-05,0
+C5272,Carlos Souza,carlos@example,45,FREE,2025-08-29,1
+C5273,Eduardo Silva,eduardo41@gmail.com,31,,2025-11-18,0
+C5274,Ana Silva,ana4@gmail.com,61,free,2025-09-22,0
+C5275,Eduardo Neto,eduardo@example,47,premium,2025-11-06,0
+C5276,Guilherme Neto,guilherme42@gmail.com,34,,2025-09-09,0
+C5277,Márcio Silva,marcio@example,49,free,2025-08-25,1
+C5278,Daniela Souza,daniela52@gmail.com,63,free,2025-09-12,1
+C5279,Eduardo Silva,eduardo21@gmail.com,23,basic,2025-07-27,1
+C5280,Bruno,bruno72@gmail.com,68,,2025-10-19,0
+C5281,Carlos Silva,carlos11@gmail.com,41,,2025-07-17,0
+C5282,Eduardo,eduardo32@gmail.com,23,premium,2025-10-04,0
+C5283,Lúcia,lucia64@gmail.com,44,free,2025-09-26,0
+C5284,Fernanda da Silva,fernanda80@gmail.com,35,premium,2025-08-23,0
+C5285,Márcio Souza,marcio90@gmail.com,41,basic,2025-11-23,1
+C5286,Fernanda da Silva,fernanda11@gmail.com,54,basic,2025-08-21,0
+C5287,Lúcia Souza,lucia@example,73,free,2025-08-30,1
+C5288,Daniela,daniela@example,41,free,2025-10-22,0
+C5289,Eduardo Neto,,55,PREMIUM,2025-11-16,0
+C5290,Fernanda Silva,fernanda3@gmail.com,51,basic,2025-11-16,0
+C5291,Márcio Neto,marcio23@gmail.com,57,free,,1
+C5292,Ana Silva,ana7@gmail.com,64,free,2025-08-11,0
+C5293,Ana,ana29@gmail.com,32,,2025-11-12,1
+C5294,Eduardo Souza,eduardo58@gmail.com,28,premium,2025-10-16,0
+C5295,Guilherme da Silva,,39,free,2025-09-05,1
+C5296,Marina,marina99@gmail.com,71,free,2025-06-15,0
+C5297,Lúcia,lucia63@gmail.com,41,free,2025-11-20,0
+C5298,Daniela Silva,daniela43@gmail.com,18,,2025-10-31,0
+C5299,Lúcia,lucia90@gmail.com,35,basic,2025-05-10,0
+C5300,Bruno,bruno54@gmail.com,61,basic,2025-11-24,0
+C5301,Carlos Silva,carlos15@gmail.com,29,basic,2025-11-04,0
+C5302,Lúcia Souza,lucia87@gmail.com,74,free,2025-02-10,1
+C5303,Lúcia da Silva,lucia76@gmail.com,60,premium,2025-08-31,0
+C5304,Eduardo Silva,eduardo46@gmail.com,45,basic,2025-10-28,0
+C5305,Carlos Silva,carlos64@gmail.com,57,free,2025-11-18,1
+C5306,Fernanda Souza,fernanda26@gmail.com,77,free,2025-11-22,0
+C5307,Daniela,daniela72@gmail.com,24,basic,2025-10-30,0
+C5308,Lúcia Silva,lucia@example,40,,2025-05-17,0
+C5309,Eduardo Silva,eduardo97@gmail.com,38,free,2025-10-07,0
+C5310,Guilherme,guilherme68@gmail.com,51,,,1
+C5311,Marina Souza,marina37@gmail.com,28,premium,2025-04-13,0
+C5312,Daniela Souza,daniela36@gmail.com,39,free,2025-10-08,0
+C5313,Marina Silva,marina32@gmail.com,59,free,2025-11-05,0
+C5314,Bruno Silva,bruno52@gmail.com,52,free,2025-09-20,0
+C5315,Márcio,marcio18@gmail.com,69,premium,2025-04-24,1
+C5316,Bruno,bruno28@gmail.com,46,free,2025-07-01,0
+C5317,Ana Neto,ana45@gmail.com,59,free,2025-11-18,1
+C5318,Eduardo Neto,eduardo52@gmail.com,45,basic,2025-08-10,1
+C5319,Daniela,daniela75@gmail.com,76,premium,2025-09-09,0
+C5320,Marina da Silva,marina8@gmail.com,35,FREE,2025-04-24,0
+C5321,Daniela Neto,daniela13@gmail.com,31,basic,2025-11-13,0
+C5322,Fernanda,fernanda46@gmail.com,35,basic,2025-09-17,0
+C5323,Eduardo,eduardo88@gmail.com,45,basic,2025-05-18,1
+C5324,Guilherme,guilherme61@gmail.com,41,premium,2025-10-08,0
+C5325,Ana Souza,ana81@gmail.com,25,free,2025-09-26,0
+C5326,Daniela da Silva,daniela3@gmail.com,59,premium,2025-11-18,1
+C5327,Bruno da Silva,bruno66@gmail.com,71,premium,2025-10-26,0
+C5328,Fernanda da Silva,fernanda15@gmail.com,62,basic,2025-10-20,0
+C5329,Lúcia Souza,lucia44@gmail.com,70,premium,2025-03-08,0
+C5330,Fernanda,fernanda88@gmail.com,25,basic,2025-10-26,0
+C5331,Marina da Silva,marina39@gmail.com,21,free,2025-09-30,0
+C5332,Daniela,daniela35@gmail.com,44,premium,2025-08-16,0
+C5333,Carlos,carlos48@gmail.com,53,basic,2025-11-09,1
+C5334,Ana Silva,ana66@gmail.com,22,basic,2025-09-26,1
+C5335,Eduardo,eduardo20@gmail.com,50,free,2025-07-27,0
+C5336,Carlos Silva,carlos7@gmail.com,66,,2025-05-27,1
+C5337,Fernanda da Silva,fernanda71@gmail.com,51,basic,2025-08-28,1
+C5338,Ana Neto,,47,free,2025-08-17,0
+C5339,Bruno,bruno2@gmail.com,25,basic,2025-11-12,0
+C5340,Bruno Neto,bruno2@gmail.com,56,premium,2025-03-07,1
+C5341,Márcio,marcio36@gmail.com,64,premium,2025-11-12,1
+C5342,Carlos Silva,carlos@example,43,basic,2025-07-13,1
+C5343,Bruno,bruno49@gmail.com,74,,2025-10-28,0
+C5344,Guilherme Souza,guilherme30@gmail.com,54,free,2025-03-25,1
+C5345,Carlos Souza,carlos78@gmail.com,51,basic,2025-08-02,0
+C5346,Daniela,daniela@example,24,,2025-07-21,0
+C5347,Lúcia Souza,lucia@example,57,,,0
+C5348,Márcio Neto,marcio10@gmail.com,45,premium,2025-10-03,1
+C5349,Lúcia Silva,lucia5@gmail.com,56,,2025-08-30,0
+C5350,Marina,,79,free,2025-07-15,0
+C5351,Eduardo Souza,eduardo66@gmail.com,56,,2025-11-15,0
+C5352,Guilherme Silva,guilherme23@gmail.com,45,free,2025-02-02,0
+C5353,Marina Neto,,31,free,2025-05-10,0
+C5354,Guilherme Neto,guilherme23@gmail.com,70,free,2025-10-27,1
+C5355,Ana,ana57@gmail.com,67,basic,2025-06-22,1
+C5356,Carlos,carlos30@gmail.com,55,free,2025-09-20,0
+C5357,Ana,ana@example,21,free,2025-09-30,1
+C5358,Ana,,59,free,2025-10-22,0
+C5359,Bruno,bruno48@gmail.com,35,free,2025-09-07,1
+C5360,Ana,ana76@gmail.com,61,basic,2025-07-30,0
+C5361,Fernanda,fernanda82@gmail.com,65,basic,2025-10-08,0
+C5362,Carlos,,42,free,2025-08-27,0
+C5363,Bruno Neto,bruno72@gmail.com,24,premium,2025-08-08,0
+C5364,Carlos Silva,carlos16@gmail.com,55,,2025-08-05,0
+C5365,Eduardo da Silva,eduardo34@gmail.com,45,premium,2025-11-20,0
+C5366,Lúcia Silva,lucia53@gmail.com,22,free,,0
+C5367,Lúcia,lucia77@gmail.com,20,premium,2025-09-30,0
+C5368,Fernanda Silva,fernanda24@gmail.com,61,free,2025-10-28,1
+C5369,Marina Silva,marina52@gmail.com,48,free,,0
+C5370,Lúcia da Silva,lucia87@gmail.com,64,free,2025-09-26,0
+C5371,Marina Silva,marina13@gmail.com,59,premium,2025-05-12,1
+C5372,Daniela Silva,,75,free,2025-10-13,1
+C5373,Ana da Silva,ana81@gmail.com,37,free,2025-07-23,1
+C5374,Marina Souza,marina39@gmail.com,36,free,2025-11-15,1
+C5375,Bruno,bruno77@gmail.com,65,,2025-09-27,0
+C5376,Eduardo da Silva,eduardo61@gmail.com,77,basic,2024-09-19,0
+C5377,Lúcia Souza,lucia5@gmail.com,28,free,2025-07-15,1
+C5378,Carlos da Silva,carlos76@gmail.com,57,basic,2025-11-03,0
+C5379,Lúcia da Silva,lucia10@gmail.com,20,basic,2025-09-23,0
+C5380,Marina,marina57@gmail.com,40,premium,2025-11-01,1
+C5381,Márcio,marcio@example,24,free,2025-10-08,1
+C5382,Guilherme Neto,guilherme39@gmail.com,40,,2025-07-11,1
+C5383,Carlos Silva,carlos95@gmail.com,78,free,2025-07-15,0
+C5384,Carlos da Silva,carlos81@gmail.com,24,premium,2025-11-01,0
+C5385,Fernanda Souza,fernanda96@gmail.com,63,free,2025-04-09,0
+C5386,Carlos Souza,carlos47@gmail.com,51,free,2025-09-05,0
+C5387,Fernanda da Silva,fernanda4@gmail.com,59,free,2025-10-12,0
+C5388,Fernanda,,36,basic,2025-09-23,0
+C5389,Daniela,daniela74@gmail.com,75,free,2025-09-02,1
+C5390,Lúcia da Silva,lucia37@gmail.com,26,premium,2025-09-12,0
+C5391,Eduardo,eduardo16@gmail.com,65,free,2025-09-26,1
+C5392,Eduardo,eduardo16@gmail.com,68,premium,,1
+C5393,Márcio,marcio99@gmail.com,35,premium,2025-11-07,0
+C5394,Ana,ana93@gmail.com,58,basic,2025-06-27,0
+C5395,Daniela Neto,daniela7@gmail.com,65,premium,2025-09-15,0
+C5396,Marina,marina10@gmail.com,62,premium,2025-11-12,1
+C5397,Daniela Souza,daniela99@gmail.com,59,free,2025-07-17,0
+C5398,Lúcia da Silva,lucia31@gmail.com,42,premium,2025-03-27,0
+C5399,Marina Silva,marina31@gmail.com,69,free,2025-03-05,1
+C5400,Fernanda Neto,fernanda54@gmail.com,31,basic,2025-10-14,0
+C5401,Márcio,marcio1@gmail.com,61,premium,2025-11-11,0
+C5402,Fernanda Souza,fernanda41@gmail.com,42,free,2025-09-20,0
+C5403,Eduardo da Silva,eduardo73@gmail.com,36,free,2025-11-14,0
+C5404,Márcio Neto,marcio22@gmail.com,56,basic,2025-03-25,0
+C5405,Fernanda,fernanda@example,72,premium,2025-11-06,0
+C5406,Carlos Silva,carlos82@gmail.com,32,,2025-10-29,0
+C5407,Marina Neto,marina89@gmail.com,33,basic,2025-10-09,0
+C5408,Daniela Souza,daniela@example,44,premium,,1
+C5409,Marina,marina@example,57,,2025-07-05,0
+C5410,Daniela,daniela48@gmail.com,27,free,2025-10-01,0
+C5411,Lúcia Silva,lucia@example,21,free,2025-11-08,0
+C5412,Guilherme Souza,guilherme57@gmail.com,68,premium,2025-10-28,0
+C5413,Lúcia,lucia6@gmail.com,36,premium,2025-09-21,0
+C5414,Bruno,bruno3@gmail.com,45,,2025-11-10,0
+C5415,Carlos Silva,carlos24@gmail.com,38,basic,2025-08-31,1
+C5416,Bruno da Silva,bruno5@gmail.com,76,free,2025-09-10,1
+C5417,Eduardo,eduardo49@gmail.com,64,basic,2025-08-04,1
+C5418,Márcio Neto,marcio61@gmail.com,31,free,2025-03-20,1
+C5419,Ana da Silva,ana19@gmail.com,50,free,2025-04-20,1
+C5420,Carlos,carlos32@gmail.com,65,premium,2025-03-07,0
+C5421,Marina Neto,marina7@gmail.com,27,free,2025-10-30,1
+C5422,Daniela,daniela89@gmail.com,36,premium,2025-11-12,0
+C5423,Ana,ana97@gmail.com,47,basic,2025-10-23,1
+C5424,Carlos Silva,carlos10@gmail.com,39,basic,2025-05-06,1
+C5425,Daniela Silva,daniela45@gmail.com,20,free,2025-01-07,0
+C5426,Lúcia Souza,lucia29@gmail.com,54,free,2025-06-01,1
+C5427,Lúcia Silva,lucia33@gmail.com,58,free,2025-11-14,0
+C5428,Daniela,daniela1@gmail.com,35,Basic,2025-03-04,1
+C5429,Guilherme Silva,guilherme82@gmail.com,28,premium,2025-10-06,1
+C5430,Fernanda Souza,fernanda96@gmail.com,65,basic,2025-11-24,1
+C5431,Guilherme,guilherme73@gmail.com,19,free,2025-10-03,0
+C5432,Ana Souza,ana@example,29,,2025-11-20,0
+C5433,Carlos Silva,carlos24@gmail.com,71,free,2025-09-15,1
+C5434,Daniela Souza,daniela98@gmail.com,23,free,2025-10-18,0
+C5435,Marina Souza,marina58@gmail.com,60,basic,,0
+C5436,Fernanda Souza,fernanda81@gmail.com,76,,2025-08-31,0
+C5437,Carlos Neto,carlos66@gmail.com,57,free,2025-05-26,0
+C5438,Eduardo,eduardo85@gmail.com,61,free,2025-08-19,0
+C5439,Guilherme Souza,guilherme58@gmail.com,46,,2025-10-04,0
+C5440,Carlos,carlos49@gmail.com,76,free,2025-06-23,1
+C5441,Marina Neto,marina78@gmail.com,47,free,2025-04-26,0
+C5442,Márcio Neto,,19,basic,2025-11-13,0
+C5443,Eduardo Neto,eduardo1@gmail.com,26,,2025-09-17,0
+C5444,Bruno,bruno31@gmail.com,64,basic,2025-10-25,1
+C5445,Bruno Silva,bruno34@gmail.com,19,FREE,2025-11-20,0
+C5446,Carlos,,46,premium,2025-08-17,0
+C5447,Ana Silva,ana67@gmail.com,50,free,2025-05-30,0
+C5448,Marina Neto,marina23@gmail.com,27,FREE,2025-11-08,1
+C5449,Eduardo Silva,,51,basic,2025-06-27,0
+C5450,Lúcia,lucia62@gmail.com,61,free,2025-06-05,1
+C5451,Márcio Souza,marcio92@gmail.com,72,basic,2025-04-17,1
+C5452,Ana Souza,ana22@gmail.com,25,free,2025-10-28,0
+C5453,Lúcia da Silva,lucia77@gmail.com,54,free,2025-04-28,1
+C5454,Lúcia Neto,lucia5@gmail.com,71,free,2025-10-21,0
+C5455,Fernanda Souza,fernanda29@gmail.com,77,basic,2025-09-13,1
+C5456,Bruno da Silva,bruno17@gmail.com,50,premium,2025-11-20,1
+C5457,Marina,,64,basic,2025-11-20,0
+C5458,Guilherme Silva,guilherme44@gmail.com,23,FREE,2025-08-02,1
+C5459,Ana,ana25@gmail.com,61,free,2025-10-03,1
+C5460,Fernanda da Silva,fernanda82@gmail.com,57,free,2025-10-29,0
+C5461,Carlos da Silva,carlos11@gmail.com,62,free,2025-11-05,0
+C5462,Ana da Silva,ana29@gmail.com,36,free,2025-08-17,0
+C5463,Lúcia Silva,lucia77@gmail.com,49,free,2025-11-24,1
+C5464,Daniela,daniela49@gmail.com,44,premium,2025-06-30,0
+C5465,Ana,ana66@gmail.com,18,,2025-11-17,1
+C5466,Ana Neto,ana8@gmail.com,60,Basic,2025-11-05,0
+C5467,Carlos,carlos69@gmail.com,69,free,2025-10-12,0
+C5468,Marina,marina31@gmail.com,50,,2025-09-26,0
+C5469,Lúcia da Silva,lucia@example,79,free,2025-10-16,0
+C5470,Bruno Neto,bruno89@gmail.com,57,free,,0
+C5471,Eduardo da Silva,eduardo27@gmail.com,49,,2025-01-30,0
+C5472,Fernanda,fernanda47@gmail.com,22,basic,2025-08-24,0
+C5473,Lúcia da Silva,,34,free,2025-11-22,1
+C5474,Bruno Neto,bruno17@gmail.com,79,basic,2025-10-05,0
+C5475,Eduardo Neto,eduardo18@gmail.com,25,free,2025-05-21,0
+C5476,Daniela,daniela6@gmail.com,74,premium,2025-10-23,1
+C5477,Eduardo Neto,eduardo78@gmail.com,59,basic,2025-11-16,0
+C5478,Eduardo da Silva,eduardo16@gmail.com,51,FREE,2025-07-20,1
+C5479,Bruno,bruno36@gmail.com,26,free,2025-09-02,0
+C5480,Eduardo,eduardo29@gmail.com,73,free,2025-09-09,0
+C5481,Lúcia Neto,lucia55@gmail.com,40,basic,2025-11-20,0
+C5482,Lúcia,lucia2@gmail.com,52,basic,2025-11-11,1
+C5483,Bruno,bruno75@gmail.com,67,free,2025-08-29,0
+C5484,Daniela da Silva,daniela78@gmail.com,24,premium,2025-11-04,1
+C5485,Daniela,daniela32@gmail.com,32,,2025-09-22,0
+C5486,Carlos,carlos61@gmail.com,70,,2025-09-15,0
+C5487,Ana Souza,ana29@gmail.com,71,premium,2025-10-25,1
+C5488,Ana,ana96@gmail.com,37,,,0
+C5489,Eduardo Neto,eduardo28@gmail.com,67,basic,2025-06-11,0
+C5490,Guilherme Souza,guilherme67@gmail.com,42,premium,2025-08-01,0
+C5491,Eduardo,eduardo27@gmail.com,20,free,2025-11-17,0
+C5492,Guilherme Silva,,77,free,2025-11-14,1
+C5493,Bruno,bruno94@gmail.com,79,free,2025-09-24,1
+C5494,Márcio,marcio@example,72,BASIC,2025-11-09,1
+C5495,Bruno da Silva,bruno52@gmail.com,63,free,2024-12-15,1
+C5496,Carlos,carlos71@gmail.com,41,Basic,2025-11-09,0
+C5497,Bruno Silva,bruno45@gmail.com,51,free,2025-09-25,0
+C5498,Guilherme Neto,guilherme73@gmail.com,63,free,2025-10-15,1
+C5499,Márcio,marcio6@gmail.com,39,basic,2025-08-25,0
+C5241,Guilherme Silva,guilherme62@gmail.com,68,premium,2025-10-10,0
+C5448,Marina Neto,marina23@gmail.com,27,FREE,2025-11-08,1
+C5075,Daniela,daniela17@gmail.com,67,free,2025-10-04,1
+C5212,Carlos Silva,carlos@example,56,premium,2025-10-26,0
+C5481,Lúcia Neto,lucia55@gmail.com,40,basic,2025-11-20,0
+C5280,Bruno,bruno72@gmail.com,68,,2025-10-19,0
+C5474,Bruno Neto,bruno17@gmail.com,79,basic,2025-10-05,0
+C5269,Eduardo,eduardo20@gmail.com,49,basic,2025-11-06,0
+C5040,Fernanda Silva,fernanda2@gmail.com,34,free,2025-04-17,1
+C5222,Daniela Neto,daniela80@gmail.com,32,premium,2025-02-09,0
