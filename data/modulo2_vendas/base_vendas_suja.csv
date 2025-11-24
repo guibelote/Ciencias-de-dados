@@ -1,0 +1,309 @@
+order_id,order_date,customer_name,city,product,price,quantity,note
+ORD1172,2024-12-24,João Silva,,Tênis,134.9,1,
+ORD1273,2025-09-19,Pedro Santos,Fortaleza,tenis,276.9,0,cliente VIP
+ORD1007,2024-05-01,vanessa,Belo Horizonte,Relógio,117.62,1,  atraso  
+ORD1084,2024-08-04,vanessa,Rio de Janeiro,tenis,25.31,3,  atraso  
+ORD1214,2025-02-19,léo,,Relógio,59.45,1,
+ORD1296,2024-07-13,João Silva,,tenis,157.42,1,  atraso  
+ORD1242,2025-07-04,MARCOS,sao paulo,Calca,145.56,3,cliente VIP
+ORD1133,2025-07-28,MARCOS,,Camiseta ,162.24,4,entrega rápida
+ORD1142,2025-06-24,vanessa,Fortaleza,camiseta,69.85,2,
+ORD1114,2025-05-17,João Silva,Curitiba,CAMISETA,,2,
+ORD1174,2025-02-14,léo,Rio de Janeiro,tenis,226.12,2,  atraso  
+ORD1091,2024-03-05,João Silva,,CAMISETA,47.5,5,
+ORD1118,2025-11-14,léo,,Tênis,244.39,1,
+ORD1065,2025-07-15,MARCOS,Fortaleza,Relógio,60.86,2,  atraso  
+ORD1180,2025-11-14,Pedro Santos,Belo Horizonte,tenis,62.05,1,entrega rápida
+ORD1261,2024-06-08,Maria Souza,São Paulo,Camiseta,88.81,2,entrega rápida
+ORD1204,2024-08-07,Ana Paula,,calça,48.22,6,entrega rápida
+ORD1123,2024-01-05,Ana Paula,Curitiba,re logio,,2,entrega rápida
+ORD1216,2025-03-14,Maria Souza,São Paulo,camiseta,13.95,2,
+ORD1013,2025-01-07,Carlos,São Paulo,camiseta,160.29,2,
+ORD1003,2024-04-16,João Silva,Curitiba,camiseta,177.63,1,
+ORD1066,2025-01-22,Maria Souza,São Paulo,camiseta,111.42,3,cliente VIP
+ORD1030,2025-07-14,Pedro Santos,Rio de Janeiro,Camiseta,207.71,2,
+ORD1253,2025-09-15,João Silva,Rio de Janeiro,re logio,99.37,0,
+ORD1029,2024-09-09,Pedro Santos,Rio de Janeiro,Camiseta,98.56,5,
+ORD1089,2024-06-05,Ana Paula,,Tênis,167.99,1,
+ORD1181,2025-10-25,João Silva,,CAMISETA,30.06,1,  atraso  
+ORD1156,2025-07-09,João Silva,sao paulo,calça,4.75,0,entrega rápida
+ORD1182,2025-01-08,Carlos,,tenis,74.06,4,cliente VIP
+ORD1192,2024-09-24,Carlos,Rio de Janeiro,Calca,52.25,2,entrega rápida
+ORD1179,2024-08-21,Carlos,sao paulo,calça,186.56,1,cliente VIP
+ORD1106,2025-05-04,léo,,Tênis,155.7,2,cliente VIP
+ORD1109,2024-01-28,Maria Souza,sao paulo,camiseta,204.85,3,entrega rápida
+ORD1035,2025-04-20,Maria Souza,Fortaleza,Camiseta ,59.94,1,  atraso  
+ORD1010,2024-11-26,João Silva,Curitiba,CAMISETA,229.15,3,entrega rápida
+ORD1222,2024-10-06,Ana Paula,Curitiba,re logio,1.17,1,
+ORD1199,2024-03-21,MARCOS,Belo Horizonte,CAMISETA,142.81,1,entrega rápida
+ORD1141,2024-06-19,Ana Paula,São Paulo,camiseta,188.63,3,  atraso  
+ORD1183,2025-11-02,Ana Paula,Curitiba,Tênis,0.64,3,entrega rápida
+ORD1268,2025-02-07,MARCOS,sao paulo,camiseta,185.87,0,
+ORD1278,2024-04-13,João Silva,Belo Horizonte,Camiseta ,104.43,2,  atraso  
+ORD1201,2024-04-22,léo,Rio de Janeiro,Relógio,137.38,3,entrega rápida
+ORD1245,2025-04-17,vanessa,,Tênis,168.08,3,
+ORD1280,2024-08-14,Carlos,,re logio,156.86,3,
+ORD1190,2025-03-17,Carlos,,re logio,76.82,3,
+ORD1077,2024-09-27,Maria Souza,Curitiba,Camiseta ,186.54,2,
+ORD1239,2024-05-27,vanessa,Curitiba,Camiseta ,128.79,1,
+ORD1094,2024-05-08,Maria Souza,sao paulo,CAMISETA,120.15,6,
+ORD1292,2024-10-03,vanessa,sao paulo,re logio,164.82,0,  atraso  
+ORD1226,2024-05-23,MARCOS,São Paulo,CAMISETA,182.42,3,cliente VIP
+ORD1099,2025-05-13,léo,Belo Horizonte,CAMISETA,131.85,5,cliente VIP
+ORD1041,2024-08-31,vanessa,São Paulo,Camiseta ,15.35,3,  atraso  
+ORD1011,2025-04-03,Ana Paula,Belo Horizonte,re logio,213.76,1,  atraso  
+ORD1291,2025-02-01,Pedro Santos,sao paulo,Calca,54.96,3,cliente VIP
+ORD1104,2024-10-15,ana paula,Fortaleza,Camiseta ,138.16,3,
+ORD1053,2024-08-29,Pedro Santos,sao paulo,Tênis,83.6,2,entrega rápida
+ORD1244,2025-10-02,vanessa,,Tênis,247.69,2,  atraso  
+ORD1154,2024-01-28,Ana Paula,Fortaleza,re logio,136.15,2,cliente VIP
+ORD1153,2025-10-07,Ana Paula,Fortaleza,camiseta,118.86,2,cliente VIP
+ORD1188,2024-04-22,Carlos,São Paulo,re logio,187.21,1,entrega rápida
+ORD1067,2024-01-02,Pedro Santos,Rio de Janeiro,camiseta,81.1,0,cliente VIP
+ORD1163,2024-08-18,léo,Fortaleza,CAMISETA,214.68,1,
+ORD1160,2025-05-20,Maria Souza,Belo Horizonte,Camiseta,127.21,2,  atraso  
+ORD1002,2024-09-27,João Silva,sao paulo,camiseta,14.51,2,  atraso  
+ORD1197,2025-09-04,Ana Paula,Fortaleza,Camiseta ,167.93,3,cliente VIP
+ORD1074,2024-06-10,MARCOS,Belo Horizonte,Tênis,90.52,2,  atraso  
+ORD1112,2024-02-02,Carlos,Belo Horizonte,camiseta,76.4,4,cliente VIP
+ORD1098,2024-05-18,Maria Souza,,Tênis,165.42,3,cliente VIP
+ORD1240,2025-05-03,Pedro Santos,sao paulo,camiseta,147.4,1,
+ORD1023,2024-07-10,MARCOS,,camiseta,124.05,1,entrega rápida
+ORD1279,2024-09-10,Pedro Santos,,calça,233.57,3,
+ORD1144,2025-06-08,Maria Souza,,re logio,93.92,1,
+ORD1131,2025-04-05,Pedro Santos,Fortaleza,calça,29.96,1,  atraso  
+ORD1161,2024-12-13,João Silva,Rio de Janeiro,re logio,126.62,1,entrega rápida
+ORD1176,2024-11-13,vanessa,sao paulo,Calca,67.17,5,  atraso  
+ORD1271,2024-04-29,carlos,Rio de Janeiro,Camiseta,83.7,3,
+ORD1258,2025-10-13,Maria Souza,Belo Horizonte,Camiseta,74.94,2,entrega rápida
+ORD1151,2025-07-10,Maria Souza,Curitiba,camiseta,281.98,2,entrega rápida
+ORD1054,2024-12-11,Carlos,Belo Horizonte,Camiseta,86.98,1,  atraso  
+ORD1004,2024-03-12,João Silva,Curitiba,Camiseta,145.27,1,  atraso  
+ORD1159,2025-10-01,Carlos,sao paulo,Camiseta,152.37,6,  atraso  
+ORD1166,2025-01-19,MARCOS,São Paulo,calça,6.53,4,
+ORD1173,2025-03-31,MARCOS,sao paulo,Camiseta,186.1,1,entrega rápida
+ORD1152,2025-07-27,João Silva,Belo Horizonte,camiseta,51.74,0,  atraso  
+ORD1224,2024-07-16,MARCOS,,camiseta,110.18,2,entrega rápida
+ORD1164,2024-07-08,MARCOS,São Paulo,CAMISETA,79.56,4,
+ORD1024,2024-10-03,léo,Curitiba,tenis,102.6,2,
+ORD1286,2024-12-03,vanessa,Belo Horizonte,camiseta,158.81,1,
+ORD1120,2025-09-04,vanessa,,re logio,20.94,3,
+ORD1157,2024-12-05,léo,sao paulo,Camiseta,141.55,1,  atraso  
+ORD1189,2025-05-11,léo,São Paulo,tenis,,1,
+ORD1020,2025-05-06,Ana Paula,Rio de Janeiro,CAMISETA,168.49,3,cliente VIP
+ORD1028,2024-01-22,Maria Souza,Belo Horizonte,Calca,654.5,5,
+ORD1281,2024-04-21,Carlos,Belo Horizonte,Camiseta ,166.89,0,cliente VIP
+ORD1269,2024-05-31,MARCOS,Belo Horizonte,tenis,284.2,3,  atraso  
+ORD1237,2025-05-25,Carlos,São Paulo,Relógio,90.0,1,
+ORD1071,2025-04-21,vanessa,Fortaleza,Relógio,73.74,2,
+ORD1285,2024-06-01,Carlos,Curitiba,calça,10.27,0,  atraso  
+ORD1231,2024-11-21,Maria Souza,Curitiba,tenis,84.21,4,entrega rápida
+ORD1130,2025-07-07,MARCOS,sao paulo,calça,254.26,8,  atraso  
+ORD1064,2024-03-21,MARCOS,Curitiba,Camiseta ,253.1,0,cliente VIP
+ORD1014,2024-04-09,léo,sao paulo,calça,342.72,0,
+ORD1221,2024-10-20,Pedro Santos,,camiseta,8.05,1,  atraso  
+ORD1128,2024-07-25,Carlos,Fortaleza,Tênis,124.06,4,cliente VIP
+ORD1018,2024-11-04,João Silva,Curitiba,Tênis,168.56,2,
+ORD1085,2024-07-06,Maria Souza,São Paulo,camiseta,138.32,2,cliente VIP
+ORD1176,2024-11-13,vanessa,sao paulo,Calca,67.17,5,  atraso  
+ORD1256,2024-10-30,MARCOS,Curitiba,Calca,78.57,3,
+ORD1025,2024-06-09,MARCOS,,calça,81.98,1,  atraso  
+ORD1134,2024-08-28,João Silva,Belo Horizonte,Calca,90.58,0,  atraso  
+ORD1103,2025-02-22,Maria Souza,Fortaleza,tenis,264.72,3,
+ORD1140,2025-10-16,Pedro Santos,Rio de Janeiro,re logio,211.55,4,
+ORD1225,2025-05-25,Pedro Santos,sao paulo,Calca,171.91,2,cliente VIP
+ORD1275,2025-09-16,léo,Curitiba,Calca,162.78,1,
+ORD1228,2024-07-19,MARCOS,Curitiba,CAMISETA,21.46,2,  atraso  
+ORD1069,2025-07-19,léo,Curitiba,Relógio,85.28,2,entrega rápida
+ORD1175,2025-10-10,João Silva,São Paulo,Relógio,43.65,2,entrega rápida
+ORD1126,2025-02-01,Carlos,Fortaleza,Camiseta,112.79,1,entrega rápida
+ORD1044,2025-04-29,MARCOS,sao paulo,tenis,25.34,3,  atraso  
+ORD1113,2024-02-17,Pedro Santos,São Paulo,tenis,18.61,2,entrega rápida
+ORD1006,2025-09-06,Pedro Santos,,calça,192.84,3,  atraso  
+ORD1155,2025-09-11,MARCOS,Rio de Janeiro,Camiseta,55.62,1,cliente VIP
+ORD1012,2024-03-28,Pedro Santos,Belo Horizonte,Relógio,90.15,3,entrega rápida
+ORD1093,2024-12-09,Pedro Santos,Fortaleza,Camiseta ,655.6999999999999,2,  atraso  
+ORD1101,2025-01-26,MARCOS,São Paulo,Calca,162.51,3,
+ORD1203,2025-10-03,Ana Paula,Belo Horizonte,Camiseta,75.51,2,  atraso  
+ORD1127,2025-01-27,léo,Belo Horizonte,re logio,79.53,0,cliente VIP
+ORD1005,2024-01-21,MARCOS,São Paulo,Camiseta,124.74,0,  atraso  
+ORD1147,2024-08-30,Pedro Santos,São Paulo,Tênis,52.58,0,cliente VIP
+ORD1079,2025-04-06,MARCOS,,CAMISETA,103.63,2,cliente VIP
+ORD1115,2025-02-10,Ana Paula,Curitiba,Calca,85.6,1,
+ORD1169,2025-09-24,vanessa,Fortaleza,Tênis,139.0,1,
+ORD1264,2024-04-08,Carlos,São Paulo,re logio,138.68,1,
+ORD1117,2024-04-08,Pedro Santos,Rio de Janeiro,Camiseta,16.7,1,  atraso  
+ORD1293,2025-05-18,vanessa,Rio de Janeiro,Camiseta,47.03,1,  atraso  
+ORD1234,2025-10-21,Carlos,sao paulo,Camiseta ,229.79,3,cliente VIP
+ORD1289,2024-06-09,vanessa,Rio de Janeiro,camiseta,31.85,2,entrega rápida
+ORD1184,2025-08-30,Pedro Santos,,Tênis,247.21,2,  atraso  
+ORD1209,2025-09-29,Ana Paula,Belo Horizonte,Camiseta ,101.21,1,
+ORD1090,2024-01-15,Ana Paula,,Relógio,81.5,3,entrega rápida
+ORD1262,2024-01-09,Pedro Santos,São Paulo,Calca,,3,cliente VIP
+ORD1009,2024-08-02,léo,Rio de Janeiro,Camiseta,52.21,4,
+ORD1037,2024-07-08,MARCOS,Rio de Janeiro,re logio,25.36,1,
+ORD1127,2025-01-27,léo,Belo Horizonte,re logio,79.53,0,cliente VIP
+ORD1045,2025-10-08,João Silva,sao paulo,Camiseta ,159.6,3,  atraso  
+ORD1178,2024-08-12,vanessa,Curitiba,Tênis,38.45,1,  atraso  
+ORD1251,2024-05-23,Pedro Santos,São Paulo,camiseta,45.1,1,
+ORD1106,2025-05-04,léo,,Tênis,155.7,2,cliente VIP
+ORD1194,2025-01-20,Carlos,sao paulo,Relógio,85.15,0,
+ORD1048,2024-09-30,João Silva,sao paulo,re logio,125.47,1,
+ORD1042,2025-05-19,vanessa,Curitiba,Relógio,172.54,5,
+ORD1257,2024-09-10,Ana Paula,Curitiba,calça,191.43,2,
+ORD1057,2024-04-01,MARCOS,Fortaleza,Tênis,154.08,2,
+ORD1145,2024-06-08,Pedro Santos,Belo Horizonte,Camiseta ,380.32,0,entrega rápida
+ORD1122,2025-10-04,Ana Paula,sao paulo,Camiseta ,276.1,2,  atraso  
+ORD1170,2025-09-19,Carlos,Rio de Janeiro,re logio,473.05,1,  atraso  
+ORD1105,2025-01-13,Pedro Santos,São Paulo,Camiseta,98.32,1,
+ORD1277,2025-02-25,léo,Rio de Janeiro,Relógio,138.21,2,
+ORD1189,2025-05-11,léo,São Paulo,tenis,210.67,1,
+ORD1193,2025-05-24,Pedro Santos,Belo Horizonte,Camiseta,116.38,3,entrega rápida
+ORD1297,2025-02-04,Pedro Santos,São Paulo,Calca,121.21,1,
+ORD1001,2025-03-11,vanessa,Curitiba,Relógio,364.89,0,cliente VIP
+ORD1139,2024-08-18,Maria Souza,Fortaleza,Camiseta ,149.05,3,
+ORD1111,2024-07-19,Ana Paula,Belo Horizonte,Tênis,50.55,2,entrega rápida
+ORD1282,2025-05-24,João Silva,Curitiba,Relógio,1.85,6,entrega rápida
+ORD1266,2024-07-26,Maria Souza,Belo Horizonte,Calca,,2,
+ORD1107,2024-08-18,vanessa,São Paulo,Calca,210.9,6,cliente VIP
+ORD1008,2025-04-11,Ana Paula,,calça,34.91,1,cliente VIP
+ORD1235,2025-02-06,MARCOS,Rio de Janeiro,re logio,65.78,2,
+ORD1295,2024-05-14,léo,sao paulo,Camiseta,101.17,4,cliente VIP
+ORD1290,2025-08-02,léo,sao paulo,camiseta,248.94,2,  atraso  
+ORD1021,2025-02-17,Ana Paula,Belo Horizonte,calça,35.54,3,  atraso  
+ORD1284,2024-04-08,Carlos,,CAMISETA,150.05,4,cliente VIP
+ORD1171,2024-09-15,João Silva,Belo Horizonte,camiseta,156.68,3,  atraso  
+ORD1220,2025-02-04,vanessa,Belo Horizonte,Calca,68.37,0,  atraso  
+ORD1223,2025-09-01,léo,,camiseta,174.37,3,
+ORD1119,2025-06-30,léo,,camiseta,41.5,1,
+ORD1032,2024-02-28,Ana Paula,Rio de Janeiro,re logio,170.81,3,cliente VIP
+ORD1213,2025-11-02,Carlos,Curitiba,Relógio,247.13,2,cliente VIP
+ORD1191,2025-07-17,MARCOS,São Paulo,CAMISETA,6.4,2,entrega rápida
+ORD1078,2025-03-31,Maria Souza,Rio de Janeiro,Camiseta,94.45,1,entrega rápida
+ORD1265,2025-10-20,João Silva,Curitiba,Camiseta ,184.21,1,
+ORD1046,2024-01-21,vanessa,Rio de Janeiro,CAMISETA,106.78,2,
+ORD1108,2024-02-10,Carlos,Belo Horizonte,Tênis,160.11,0,entrega rápida
+ORD1283,2025-04-17,MARCOS,,CAMISETA,216.47,1,cliente VIP
+ORD1270,2024-02-23,Carlos,sao paulo,CAMISETA,,1,entrega rápida
+ORD1243,2024-12-03,Pedro Santos,Curitiba,camiseta,135.46,5,cliente VIP
+ORD1082,2024-12-03,Pedro Santos,Rio de Janeiro,CAMISETA,56.99,2,cliente VIP
+ORD1215,2024-09-03,Maria Souza,Belo Horizonte,calça,49.99,1,entrega rápida
+ORD1135,2025-07-17,vanessa,sao paulo,Camiseta,76.18,2,
+ORD1274,2025-08-09,Pedro Santos,São Paulo,re logio,98.94,0,entrega rápida
+ORD1110,2024-05-14,léo,Fortaleza,Tênis,66.48,1,
+ORD1298,2025-10-01,Maria Souza,,calça,10.75,3,
+ORD1206,2024-08-12,Ana Paula,,camiseta,149.35,4,
+ORD1036,2025-11-30,João Silva,,calça,37.96,1,
+ORD1092,2025-06-04,vanessa,,Tênis,86.4,1,cliente VIP
+ORD1186,2024-08-20,léo,sao paulo,Tênis,171.8,2,
+ORD1217,2024-07-21,léo,São Paulo,re logio,58.3,2,  atraso  
+ORD1062,2024-02-04,MARCOS,sao paulo,camiseta,88.69,0,cliente VIP
+ORD1000,2024-04-12,léo,São Paulo,Tênis,170.74,2,
+ORD1027,2024-11-09,MARCOS,Rio de Janeiro,Camiseta ,54.92,0,
+ORD1100,2025-08-15,João Silva,sao paulo,Camiseta,213.79,2,entrega rápida
+ORD1177,2025-11-07,vanessa,sao paulo,tenis,91.88,4,entrega rápida
+ORD1187,2025-11-22,vanessa,Fortaleza,Camiseta ,162.88,1,
+ORD1230,2024-07-05,léo,Belo Horizonte,CAMISETA,231.97,5,
+ORD1148,2024-03-26,MARCOS,Fortaleza,Relógio,151.36,0,  atraso  
+ORD1063,2024-07-24,léo,sao paulo,Calca,155.04,2,entrega rápida
+ORD1039,2025-07-16,João Silva,Fortaleza,camiseta,262.31,3,
+ORD1259,2025-03-28,Maria Souza,Belo Horizonte,Camiseta ,323.14,1,cliente VIP
+ORD1205,2025-07-19,Carlos,,Camiseta,242.07,3,cliente VIP
+ORD1158,2024-11-26,Maria Souza,Fortaleza,CAMISETA,265.09,3,  atraso  
+ORD1143,2024-02-05,Ana Paula,,Calca,12.64,1,entrega rápida
+ORD1017,2025-10-23,léo,Fortaleza,Tênis,135.25,1,
+ORD1059,2025-03-30,João Silva,,Camiseta ,182.15,2,
+ORD1165,2024-08-12,vanessa,Rio de Janeiro,Tênis,11.46,3,
+ORD1227,2025-08-31,João Silva,Curitiba,tenis,132.09,0,entrega rápida
+ORD1249,2025-09-02,vanessa,Belo Horizonte,Tênis,68.06,2,
+ORD1241,2025-10-01,Carlos,Rio de Janeiro,camiseta,272.92,1,cliente VIP
+ORD1208,2025-02-06,Maria Souza,Fortaleza,Calca,49.96,0,entrega rápida
+ORD1236,2024-12-11,Ana Paula,,Relógio,212.28,3,
+ORD1149,2025-07-31,vanessa,Belo Horizonte,Calca,110.04,2,
+ORD1123,2024-01-05,Ana Paula,Curitiba,re logio,116.79,2,entrega rápida
+ORD1055,2025-07-18,léo,São Paulo,tenis,167.65,2,  atraso  
+ORD1016,2024-05-10,Maria Souza,Curitiba,camiseta,119.07,2,
+ORD1219,2024-05-02,ana paula,Belo Horizonte,Camiseta,116.04,5,entrega rápida
+ORD1232,2025-04-08,Carlos,Rio de Janeiro,Calca,147.25,0,
+ORD1200,2025-11-29,Pedro Santos,Belo Horizonte,CAMISETA,82.25,1,
+ORD1202,2024-01-02,léo,Curitiba,calça,82.25,3,cliente VIP
+ORD1276,2025-02-23,Ana Paula,sao paulo,Camiseta,272.47,1,entrega rápida
+ORD1288,2025-11-11,Ana Paula,São Paulo,Relógio,307.36,2,entrega rápida
+ORD1150,2025-11-12,vanessa,São Paulo,Tênis,103.98,1,entrega rápida
+ORD1087,2025-05-07,Maria Souza,Curitiba,calça,54.78,3,  atraso  
+ORD1272,2025-11-03,vanessa,Rio de Janeiro,Relógio,42.34,2,cliente VIP
+ORD1212,2025-11-14,vanessa,sao paulo,CAMISETA,23.27,1,
+ORD1146,2025-11-29,Carlos,Belo Horizonte,Calca,3.6,0,  atraso  
+ORD1097,2024-03-03,MARCOS,Belo Horizonte,Camiseta,153.11,0,  atraso  
+ORD1250,2024-09-19,Maria Souza,Belo Horizonte,Relógio,52.12,0,  atraso  
+ORD1125,2025-05-17,vanessa,Rio de Janeiro,Calca,105.29,0,
+ORD1267,2024-05-10,MARCOS,Curitiba,Calca,139.23,0,  atraso  
+ORD1061,2025-05-23,léo,Curitiba,re logio,161.5,2,  atraso  
+ORD1081,2024-10-22,Maria Souza,Curitiba,Calca,299.58,3,
+ORD1073,2025-07-09,João Silva,sao paulo,camiseta,56.52,3,
+ORD1068,2025-01-24,léo,São Paulo,tenis,247.44,0,cliente VIP
+ORD1129,2024-01-15,João Silva,Fortaleza,camiseta,159.57,1,entrega rápida
+ORD1210,2024-05-09,Carlos,Curitiba,Relógio,41.02,1,
+ORD1056,2024-12-05,Carlos,Rio de Janeiro,camiseta,39.32,3,
+ORD1019,2024-12-09,MARCOS,Curitiba,Camiseta ,92.09,3,  atraso  
+ORD1198,2025-09-16,Ana Paula,,calça,106.55,0,  atraso  
+ORD1086,2025-01-14,João Silva,São Paulo,Calca,92.85,3,
+ORD1070,2024-04-15,vanessa,Rio de Janeiro,calça,61.38,1,cliente VIP
+ORD1229,2024-05-03,João Silva,Rio de Janeiro,Calca,135.17,4,entrega rápida
+ORD1246,2024-05-30,léo,sao paulo,calça,68.46,3,
+ORD1137,2025-04-29,vanessa,,camiseta,138.32,3,
+ORD1060,2025-03-03,vanessa,São Paulo,Calca,116.19,1,entrega rápida
+ORD1034,2025-11-12,João Silva,sao paulo,calça,15.54,2,
+ORD1040,2025-07-20,Ana Paula,Curitiba,re logio,66.64,5,  atraso  
+ORD1138,2025-02-10,Carlos,Fortaleza,re logio,2.73,2,entrega rápida
+ORD1254,2025-07-25,Pedro Santos,Fortaleza,calça,158.25,2,cliente VIP
+ORD1076,2024-09-26,João Silva,,CAMISETA,110.76,2,
+ORD1026,2025-04-04,léo,Belo Horizonte,calça,71.25,1,cliente VIP
+ORD1043,2024-05-10,João Silva,Belo Horizonte,Camiseta ,5.13,3,entrega rápida
+ORD1096,2025-04-16,Pedro Santos,Belo Horizonte,re logio,274.68,1,  atraso  
+ORD1083,2024-02-22,MARCOS,São Paulo,Camiseta,273.89,1,
+ORD1252,2024-12-11,léo,Curitiba,Calca,146.65,3,cliente VIP
+ORD1185,2025-04-16,Pedro Santos,,re logio,157.73,1,  atraso  
+ORD1073,2025-07-09,João Silva,sao paulo,camiseta,56.52,3,
+ORD1248,2024-10-24,Maria Souza,Fortaleza,Calca,60.83,3,
+ORD1247,2025-02-18,Pedro Santos,sao paulo,Tênis,228.48,3,cliente VIP
+ORD1233,2024-12-14,João Silva,São Paulo,calça,118.9,1,
+ORD1136,2024-04-05,Carlos,Belo Horizonte,re logio,203.49,3,entrega rápida
+ORD1049,2025-01-22,Ana Paula,,Tênis,87.25,2,
+ORD1207,2025-01-19,Pedro Santos,sao paulo,Relógio,136.76,1,
+ORD1294,2025-01-26,Pedro Santos,Rio de Janeiro,calça,199.77,3,
+ORD1132,2025-11-21,Pedro Santos,Fortaleza,Relógio,248.87,1,entrega rápida
+ORD1050,2025-08-23,Ana Paula,Rio de Janeiro,calça,271.16,1,
+ORD1238,2024-05-26,João Silva,,Relógio,64.47,2,
+ORD1052,2024-01-14,Pedro Santos,Curitiba,Tênis,469.3,1,
+ORD1080,2024-09-08,Carlos,São Paulo,tenis,141.68,1,entrega rápida
+ORD1031,2025-04-19,Ana Paula,,Camiseta ,93.17,3,
+ORD1121,2025-04-06,Pedro Santos,São Paulo,Relógio,54.03,2,
+ORD1211,2024-02-22,joão silva,Rio de Janeiro,camiseta,80.71,4,
+ORD1196,2024-04-22,Ana Paula,Fortaleza,Camiseta ,31.74,1,cliente VIP
+ORD1088,2024-02-10,João Silva,Rio de Janeiro,Tênis,175.93,1,cliente VIP
+ORD1255,2024-01-02,vanessa,,camiseta,98.54,1,  atraso  
+ORD1058,2025-01-01,Ana Paula,,Tênis,76.7,4,
+ORD1033,2025-05-25,Carlos,Rio de Janeiro,tenis,33.58,3,
+ORD1038,2025-11-17,João Silva,Curitiba,tenis,155.98,0,  atraso  
+ORD1051,2024-11-11,Maria Souza,sao paulo,CAMISETA,65.94,6,  atraso  
+ORD1260,2024-02-06,MARCOS,Fortaleza,Camiseta ,2317.4,3,  atraso  
+ORD1102,2025-11-05,vanessa,São Paulo,re logio,179.93,4,
+ORD1195,2025-01-21,Carlos,Fortaleza,Camiseta,211.42,5,cliente VIP
+ORD1167,2025-01-11,João Silva,Rio de Janeiro,tenis,126.32,2,
+ORD1116,2025-07-27,Pedro Santos,Belo Horizonte,re logio,218.42,6,
+ORD1124,2024-08-05,Maria Souza,sao paulo,Calca,162.35,0,  atraso  
+ORD1218,2024-07-02,Maria Souza,Fortaleza,Tênis,80.41,4,  atraso  
+ORD1287,2024-06-11,João Silva,Curitiba,Tênis,45.0,6,entrega rápida
+ORD1047,2024-06-15,Pedro Santos,Curitiba,Relógio,65.03,1,cliente VIP
+ORD1213,2025-11-02,Carlos,Curitiba,Relógio,247.13,2,cliente VIP
+ORD1185,2025-04-16,Pedro Santos,,re logio,157.73,1,  atraso  
+ORD1095,2025-10-09,Ana Paula,Rio de Janeiro,CAMISETA,180.47,3,
+ORD1162,2025-04-17,João Silva,Belo Horizonte,calça,99.33,0,cliente VIP
+ORD1263,2024-08-20,léo,Curitiba,Tênis,162.02,3,cliente VIP
+ORD1075,2024-07-20,Ana Paula,São Paulo,Camiseta,132.58,4,
+ORD1299,2024-02-02,Carlos,Belo Horizonte,Camiseta,160.33,4,entrega rápida
+ORD1022,2025-01-20,Pedro Santos,sao paulo,Relógio,146.91,3,
+ORD1072,2025-02-05,vanessa,sao paulo,Calca,109.14,1,cliente VIP
+ORD1015,2025-10-25,Carlos,sao paulo,tenis,117.51,1,
+ORD1168,2024-10-09,Maria Souza,Belo Horizonte,Camiseta ,204.86,4,
